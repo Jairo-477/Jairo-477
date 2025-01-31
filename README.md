@@ -4,9 +4,9 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mi
 
-💡 &nbsp;Me llamo Jairo Alejandro, soy un desarrollador Backend java.\
-💬 &nbsp;Me gusta explorar nuevas tecnologias y desarrollar soluciones innovadoras por medio del software.\
-🎓 &nbsp;Actualmente soy estudiante de ingenieria electrónica.\
+💡 &nbsp;Me llamo Jairo Alejandro, soy un desarrollador backend java.\
+💬 &nbsp;Me gusta explorar nuevas tecnologías y desarrollar soluciones innovadoras por medio del software.\
+🎓 &nbsp;Actualmente soy estudiante de Ingeniería Electrónica.\
 📄 &nbsp;Echa un vistazo a mi currículum para obtener más detalles sobre mí. ¡Estoy abierto a recibir comentarios y sugerencias!
 
 ### 🛠 &nbsp;Stack Tecnológico
